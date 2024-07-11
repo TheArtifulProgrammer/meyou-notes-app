@@ -89,6 +89,8 @@ meyou-notes-app/
 ├── screenshots/
 ├── test/
 └── README.md
+
+```
 ## Technologies Used
 
 - **Frontend**: Flutter, Dart
