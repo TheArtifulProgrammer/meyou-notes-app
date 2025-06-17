@@ -66,12 +66,6 @@ Before you begin, ensure you have the following installed on your machine:
 
 2. Start taking notes!
 
-## Screenshots
-
-![Home Screen](screenshots/home_screen.png)
-![Add Note Screen](screenshots/add_note_screen.png)
-![Edit Note Screen](screenshots/edit_note_screen.png)
-
 ## Project Structure
 
 ```bash
