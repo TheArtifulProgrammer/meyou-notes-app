@@ -32,7 +32,7 @@ Meyou Notes App is a simple and intuitive note-taking application built with Flu
 
 Before you begin, ensure you have the following installed on your machine:
 
-- [Flutter](https://flutter.dev/) (v2.0 or later)
+- [Flutter](https://flutter.dev/) (v2.0 or later).
 - [Dart](https://dart.dev/)
 - A code editor like [Visual Studio Code](https://code.visualstudio.com/) or [Android Studio](https://developer.android.com/studio)
 
