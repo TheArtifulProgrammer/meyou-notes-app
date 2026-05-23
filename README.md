@@ -107,4 +107,4 @@ This project is licensed under the MIT License. Please look at the [LICENSE](LIC
 
 ## Author
 
-Created by [TheArtifulProgrammer](https://github.com/TheArtifulProgrammer). If you found this project helpful or interesting, please give it a ⭐ on [GitHub](https://github.com/yourusername/meyou-notes-app)!
+Created by [TheArtifulProgrammer](https://github.com/TheArtifulProgrammer). If you found this project helpful or interesting, please give it a ⭐ on [GitHub](https://github.com/TheArtifulProgrammer/meyou-notes-app)!
